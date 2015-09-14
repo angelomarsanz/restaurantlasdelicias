@@ -74,14 +74,21 @@ width: 5%;
 #titulopagina
 {
 float: left;
-width: 50%;
+width: 40%;
+}
+
+#vermenudeldia
+{
+float: left;
+width: 30%;
+text-align: left;
+margin: 1%;
 }
 
 #redsocial
-
 {
 float: left;
-width: 40%;
+width: 20%;
 text-align: right;
 margin: 1%;
 }
