@@ -11,7 +11,7 @@ header, section, footer, aside, nav, article, figure, figcaption, hgroup
 
 body
 {
-background-image: url(imagenes/fondo.jpg);
+background-image: url("../imagenes/fondo.jpg");
 }
 
 #agrupar
@@ -74,7 +74,23 @@ width: 5%;
 #titulopagina
 {
 float: left;
-width: 80%;
+width: 40%;
+}
+
+#vermenudeldia
+{
+float: left;
+width: 30%;
+text-align: left;
+margin: 1%;
+}
+
+#redsocial
+{
+float: left;
+width: 20%;
+text-align: right;
+margin: 1%;
 }
 
 #pie
